@@ -15,8 +15,8 @@ import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
 import { UserContext } from "./context/UserContext";
 
-import Footer from "./components/Footer";
-import Header from "./components/Header";
+import Footer from "./layout/Footer";
+import Header from "./layout/Header";
 
 import firebaseConfig from "./Config/firebaseConfig";
 firebase.initializeApp(firebaseConfig);
