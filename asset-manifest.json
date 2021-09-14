@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-js-pro-githuber/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/react-js-pro-githuber/static/js/main.4617fa80.chunk.js",
-    "main.js.map": "/react-js-pro-githuber/static/js/main.4617fa80.chunk.js.map",
+    "main.js": "/react-js-pro-githuber/static/js/main.e74a6b46.chunk.js",
+    "main.js.map": "/react-js-pro-githuber/static/js/main.e74a6b46.chunk.js.map",
     "runtime-main.js": "/react-js-pro-githuber/static/js/runtime-main.aaa5b976.js",
     "runtime-main.js.map": "/react-js-pro-githuber/static/js/runtime-main.aaa5b976.js.map",
     "static/css/2.6b8806cc.chunk.css": "/react-js-pro-githuber/static/css/2.6b8806cc.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.6b8806cc.chunk.css",
     "static/js/2.4633432c.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4617fa80.chunk.js"
+    "static/js/main.e74a6b46.chunk.js"
   ]
 }
