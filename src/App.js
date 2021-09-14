@@ -29,9 +29,9 @@ const App = () => {
       <UserContext.Provider value={{ user, setUser }}>
         <Header />
         <Switch>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/signin" component={SignIn} />
-          <Route exact path="/signup" component={SignUp} />
+          <Route exact path="/react-js-pro-githuber" component={Home} />
+          <Route exact path="react-js-pro-githuber/signin" component={SignIn} />
+          <Route exact path="react-js-pro-githuber/signup" component={SignUp} />
           <Route exact path="*" component={NotFound} />
         </Switch>
         <Footer />
