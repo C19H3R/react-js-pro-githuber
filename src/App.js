@@ -30,8 +30,16 @@ const App = () => {
         <Header />
         <Switch>
           <Route exact path="/react-js-pro-githuber" component={Home} />
-          <Route exact path="react-js-pro-githuber/signin" component={SignIn} />
-          <Route exact path="react-js-pro-githuber/signup" component={SignUp} />
+          <Route
+            exact
+            path="/react-js-pro-githuber/signin"
+            component={SignIn}
+          />
+          <Route
+            exact
+            path="/react-js-pro-githuber/signup"
+            component={SignUp}
+          />
           <Route exact path="*" component={NotFound} />
         </Switch>
         <Footer />
